@@ -1,2 +1,2 @@
-Hulu clone built with nextjs and tailwind css
+Movie discovery platform built with nextjs and tailwind css
 
